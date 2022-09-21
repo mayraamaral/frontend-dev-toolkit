@@ -1,4 +1,4 @@
-# Web Dev Toolkit
+# Frontend Dev Toolkit
 
 A simple list of my tools for frontend development in 2022.
 
