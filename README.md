@@ -4,15 +4,15 @@ A simple list of my tools for frontend development in 2022.
 
 ## Summary
 
-- [1. Design](https://github.com/mayraamaral/frontend-dev-toolkit#1-design)
-- [2. Illustrations, boards and wireframes](https://github.com/mayraamaral/frontend-dev-toolkit#2-illustrations-boards-and-wireframes)
-- [3. Diagrams](https://github.com/mayraamaral/frontend-dev-toolkit#3-diagrams)
-- [4. SVG and PNG Icons](https://github.com/mayraamaral/frontend-dev-toolkit#4-svg-and-png-icons)
-- [5. Brainstorming](https://github.com/mayraamaral/frontend-dev-toolkit#5-brainstorming)
-- [6. Useful Resources](https://github.com/mayraamaral/frontend-dev-toolkit#6-useful-resources)
-- [6.1 Images](https://github.com/mayraamaral/frontend-dev-toolkit#61-images)
-- [6.2 Fonts](https://github.com/mayraamaral/frontend-dev-toolkit#62-fonts)
-- [6.3 Colors](https://github.com/mayraamaral/frontend-dev-toolkit#63-colors)
+1. [Design](https://github.com/mayraamaral/frontend-dev-toolkit#1-design)
+2. [Illustrations, boards and wireframes](https://github.com/mayraamaral/frontend-dev-toolkit#2-illustrations-boards-and-wireframes)
+3. [Diagrams](https://github.com/mayraamaral/frontend-dev-toolkit#3-diagrams)
+4. [SVG and PNG Icons](https://github.com/mayraamaral/frontend-dev-toolkit#4-svg-and-png-icons)
+5. [Brainstorming](https://github.com/mayraamaral/frontend-dev-toolkit#5-brainstorming)
+6. [Useful Resources](https://github.com/mayraamaral/frontend-dev-toolkit#6-useful-resources)  
+   6.1. [Images](https://github.com/mayraamaral/frontend-dev-toolkit#61-images)  
+   6.2. [Fonts](https://github.com/mayraamaral/frontend-dev-toolkit#62-fonts)  
+   6.3. [Colors](https://github.com/mayraamaral/frontend-dev-toolkit#63-colors)
 
 ## 1. Design
 
