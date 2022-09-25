@@ -58,7 +58,7 @@ A simple list of my tools for frontend development in 2022.
 
 - [Google Fonts](https://fonts.google.com/)
 
-## 6.3 Colors
+### 6.3 Colors
 
 - [Coolors](https://coolors.co/)
 - [Color Hunt](https://colorhunt.co/)
